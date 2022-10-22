@@ -6,16 +6,11 @@ html{
     height: 85%;
 }
 body{
-    height: 100%;
-    width: 100%;
     font-family: "Baloo 2", cursive;
     font-size: 10.8pt;
     color: #000000;
     background: url("./bg.png");
-    background-repeat: no-repeat;
     background-position: center;
-    background-size: auto;
-    background-attachment: fixed;
 }
 
 .img-thumbnail {
